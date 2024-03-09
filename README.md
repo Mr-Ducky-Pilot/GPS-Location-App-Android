@@ -1,3 +1,7 @@
+A Flutter App To get Android device location with options to trasmit it to server.
+Check out the commets in main.dart for different funcationlity of the app.
+Geolocater v11.0.0 which is used here has issues with java versions so extensive changes have been made to manage the java sdk versions in build and settings files for android.
+
 # basic_location
 
 A new Flutter project.
