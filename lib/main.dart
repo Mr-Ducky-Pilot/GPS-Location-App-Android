@@ -31,7 +31,7 @@ class _LocationAppState extends State<LocationApp> {
   Timer? _fallbackTimer;
   bool _isTransmitting = false;
   List<String> _transmissionLog = [];
-  String _vehicleId = '65e61485158dad1c58647443';
+  String _vehicleId = 'Vehicle ID correspoding to server';
   final String _serverUrl = 'Your IP ADDRESS'; //TODO ADD IP ADDRESS
   IO.Socket? _socket;
 
